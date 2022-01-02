@@ -9,5 +9,5 @@
 - 😄 Pronouns: He/Him
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetavv&hide=stars)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetavv&hide=stars) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetavv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
