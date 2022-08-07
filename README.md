@@ -15,6 +15,7 @@
   <img width="55" src="https://raw.githubusercontent.com/hetavv/hetavv/61ad07e91272b72edfa8549b09fa38c0baac10a4/logos/html-5.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/hetavv/hetavv/61ad07e91272b72edfa8549b09fa38c0baac10a4/logos/css-3.svg"/>
   <img width="55" src="https://raw.githubusercontent.com/hetavv/hetavv/61ad07e91272b72edfa8549b09fa38c0baac10a4/logos/javascript.svg"/>
+  <img width="55" src="https://github.com/hetavv/hetavv/blob/main/logos/fastapi-1.svg"/>
 </div>  
 <br>
 <div align="left">
