@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hetavv&style=flat-square)
 
 - 🖥 I’m a computer science major
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning FastAPI
 - 📫 How to reach me: <a href="mailto: hetav.1805@gmail.com"><u>Send mail</u></a>
 - 😄 Pronouns: He/Him
 
