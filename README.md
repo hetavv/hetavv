@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hetavv&style=flat-square)
 
 - 🖥 I’m a recent computer science graduate, working a SDE at a F500 Custodian Bank
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning Terraform
 - 📫 How to reach me: <a href="mailto: hetav.1805@gmail.com"><u>Send mail</u></a>
 - 😄 Pronouns: He/Him
 
