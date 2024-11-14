@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hetavv&style=flat-square)
 
-- 🖥 I’m a recent computer science graduate, working a SDE at a F500 Custodian Bank
+- 🖥 I’m a recent computer science graduate, working as a software developer at a custodian bank, within wealth management technology.
 - 🌱 I’m currently learning Terraform
 - 📫 How to reach me: <a href="mailto: hetav.1805@gmail.com"><u>Send mail</u></a>
 - 😄 Pronouns: He/Him
